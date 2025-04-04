@@ -1,5 +1,4 @@
 {
-  "author": "wonderlust",
   "name": "wonderlust",
   "version": "1.0.0",
   "main": "index.js",
@@ -11,7 +10,7 @@
     "url": "git+https://github.com/johnsonsolutions/APIS.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "wonderlust",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/johnsonsolutions/APIS/issues"
